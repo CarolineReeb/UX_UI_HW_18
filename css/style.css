@@ -1,0 +1,45 @@
+body{
+    background-color: black;}
+p{ color:white;}
+h1{color:white;}
+h2{color:white;}
+h3{color:green;}
+h4{color:green;}
+button{color:green;}
+
+
+#bioImage{ 
+    width: 200px;
+
+}
+.color-box {
+    width: 1450px; 
+    height: 2.5px; 
+    background-color: green; 
+    margin-bottom: 20px;
+    z-index: -1;
+  }
+.flexContainer{
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    justify-content:space-around;
+}
+
+  
+#localSocial{
+    width: 200px;
+    max-width: 50%;
+    padding: 5%;}
+    
+#paws{ 
+    width:200px;
+    max-width: 50%;
+    padding: 5%;}
+#archive{
+    width: 500px;px;
+    padding: 5%;
+}
+
+
+
